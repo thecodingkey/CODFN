@@ -6,20 +6,20 @@
     "title": {
       "loremWords": {
         "minLength": 5,
-        "maxLength": 20
+        "maxLength": 200
       }
     },
     "body": {
       "loremParagraphs": {
         "minLength": 10,
-        "maxLength": 100
+        "maxLength": 200
       }
     },
     "tag": {
       "string": [
-        "one",
-        "two",
-        "three"
+        "#iOS",
+        "#Swift",
+        "#Development"
       ]
     },
     "isDraft": {
@@ -27,8 +27,8 @@
     },
     "createdAt": {
       "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
+        "min": "2021-01-01T00:00:00Z",
+        "max": "2022-12-31T23:59:59Z"
       }
     }
   }
